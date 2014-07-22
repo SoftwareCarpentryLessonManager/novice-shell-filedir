@@ -1,6 +1,7 @@
 {
   "name": "novice-shell-filedir",
   "version": "0.1.0",
+  "main": "index.md",
   "homepage": "https://github.com/SoftwareCarpentryLessonManager/novice-shell-filedir",
   "description": "Shell lesson on files and directories.",
   "keywords": [
