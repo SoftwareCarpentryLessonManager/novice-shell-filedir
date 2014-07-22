@@ -8,5 +8,8 @@
     "shell",
     "novice"
   ],
+  "dependencies": {
+    "novice-shell-intro": "0.1.*"
+  },
   "license": "CC BY 3.0 Unported"
 }
